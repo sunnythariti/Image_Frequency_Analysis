@@ -1,3 +1,5 @@
+# Image_Frequency_Analysis
+
 ## Project Overview
 
 This project demonstrates image processing using Fourier Transform (FFT). Filter high and low frequencies, then reconstruct them back to normal images. Through this process, users can analyze and manipulate frequency components of visual data.
